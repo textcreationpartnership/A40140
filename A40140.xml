@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning marriage how God made them male and female in the beginning.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40140</idno>
+            <idno type="STC">Wing F1767</idno>
+            <idno type="STC">ESTC R27995</idno>
+            <idno type="EEBO-CITATION">10325362</idno>
+            <idno type="OCLC">ocm 10325362</idno>
+            <idno type="VID">44847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40140)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44847)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning marriage how God made them male and female in the beginning.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: G.F.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  Religious aspects --  Society of Friends.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44847:1"/>
+            <pb n="1" facs="tcp:44847:1"/>
+            <head>CONCERNING MARRIAGE: <hi>How God made them Male and Female in the beginning, and how he joyned them together, before they were drove from God into the Earth, and then the manner of Mar<g ref="char:EOLhyphen"/>riage before the Law, and then the Marriage in the Law, and the Marriage amongſt the Chriſtians in the Primitive times; And the Marriage of the Apoſtate Chriſtians, and</hi> Jews <hi>and</hi> Gentiles, <hi>where hardneſs of heart was, there men put a ſunder: But where God joynes together, let none put a ſunder, that is as it was in the beginning before man was driven from God into the Earth, out of the defiled Bed in the Dominion, in the unity with all Saints, ſo not to be hid from them.</hi>
+            </head>
+            <p>NOw the reproveable Marriages are ſuch as <hi>Herods,</hi> that <hi>John Baptiſt</hi> reproved, and ſuch are ſpoken of in <hi>Geneſis, when the Sons of God ſaw the Daughters of men that they were fair, they took un<g ref="char:EOLhyphen"/>to them Wives of all ſorts,</hi> which was in the coveting de<g ref="char:EOLhyphen"/>ſires that grieved the Spirit of God, ſo their minds was rebuked that run after all ſorts, that grieved the Spirit of God, that went from Gods joyning; So this was the rebukable Marriage, <hi>Gen.</hi> 6.2. <hi>So let your Converſation be without Coveteouſneſſe.</hi>
+            </p>
+            <p>And the manner of <hi>Iſaacks</hi> taking a wife, Chap. 24.67. and Chap. 38. People was preſent when he took a wife, and <hi>Rebekahs</hi> friends bleſſed her and ſaid, be
+<pb n="2" facs="tcp:44847:2"/>thou Mother of Thouſands; and <hi>Iſaac</hi> took her into his Mothers Tent, and there took her to Wife. At the marriage of <hi>Jacob, Laban</hi> gathered together all the men of the place (and ſo there was people) <hi>Gen.</hi> 29.22. So the manner of marrying in the Law, <hi>Exod.</hi> 21. <hi>Thou ſhalt not take thee a wife that is a whore, or a woman that is put away from her Husband,</hi> that was the Law of the Prieſts, <hi>Levit.</hi> 21. <hi>Ye ſhall not make Mar<g ref="char:EOLhyphen"/>riages with the Heathen, nor give your Daughters nor Sons to them, nor ſerve their Gods, but ſhall follow me ſaith the Lord,</hi> he that joins together, <hi>Deut.</hi> 7.3. And <hi>Jo<g ref="char:EOLhyphen"/>ſhua</hi> ſaid they ſhould not make <hi>marriages</hi> with the <hi>Hea<g ref="char:EOLhyphen"/>then,</hi> leaſt they were <hi>ſnares</hi> to them, and as <hi>traps, Jo<g ref="char:EOLhyphen"/>ſhua</hi> 23.12. <hi>And the wife of the dead ſhall not marry a ſtranger,</hi> and the Elders of the City was to ſpeak to him that did marry the woman, the wife of him that was dead, and he and ſhe ſhould come before the El<g ref="char:EOLhyphen"/>ders, and ſo you ſee there were people preſent, <hi>Deut.</hi> 25.9. At <hi>Boaz</hi> and <hi>Ruth</hi> all the People and Elders that were in the Gates were witneſſes, and ſaid, <hi>we are witneſſes;</hi> And there you may ſee what was the words the man ſaid, and the woman ſaid to them, <hi>Ruth</hi> 4. <hi>The Lord make the woman like</hi> Rachel <hi>and</hi> Le<g ref="char:EOLhyphen"/>ah, <hi>which two did build the Houſe of</hi> Iſrael, and the wo<g ref="char:EOLhyphen"/>man bleſſed the Lord likewiſe; And <hi>David</hi> ſent his ſervants to <hi>Abigail,</hi> and communed with her to take her to wife, and ſhe came with five Damſels, and be<g ref="char:EOLhyphen"/>came his wife, 1 <hi>Sam.</hi> 25.39.42.</p>
+            <div type="part">
+               <pb n="3" facs="tcp:44847:2"/>
+               <head>A Vertuous Woman is a Crown to her Husband.</head>
+               <p>HEar is ſomething alſo which was ſpoken con<g ref="char:EOLhyphen"/>cerning marrying in the Primitive times, by the Saints and Servants of God, who were paſſed from death to life, and ſo from the ſin that defiles the Bed; Chriſt ſaith, <hi>Mat.</hi> 19.9. <hi>Whoſoever ſhall put away his wife except it be for Fornication, and marrieth another, committeth Adultery, and whoſoever marrieth her that is put away committeth Adultery. There was a marriage in</hi> Canaan, <hi>and Jeſus his Mother and his Diſci<g ref="char:EOLhyphen"/>ples were called to it;</hi> So you may ſee there were peo<g ref="char:EOLhyphen"/>ple preſent as witneſſes; things were not done in a corner nor in a hole, <hi>John</hi> 2. <hi>While a womans Husband lives, if ſhe marries ſhe is called an Adultereſs, but when her Husband is dead, ſhe is free from the Law if ſhe mar<g ref="char:EOLhyphen"/>ry to another man,</hi> Rom. 7.3. And in 1 <hi>Cor.</hi> 7. The ſtate of Marriage may be ſeen; <hi>Let not the wife de<g ref="char:EOLhyphen"/>part from the Husband, for the unbelieving Husband is ſanctified through the believing wife, and the unbelieving wife through the believing Husband, elſe were your Chil<g ref="char:EOLhyphen"/>dren unholy, but now are they clean; for what doſt thou know but thou mayeſt ſave thy wife, or the wife may ſave her husband?</hi> Therefore you may ſee there was much in that; and this was ſpoken further then the Law, which ſaith in <hi>Nehemiah,</hi> they might depart if they were joyned to the <hi>Heathens, Nehe.</hi> 13. The Apoſtle ſaith, <hi>be not unequally yoaked with unbelievers, for what fellowſhip hath Believers with Infidels,</hi> 1 Cor. 6. And <hi>Husbands love your Wives, and Wives ſubmit to your Hus<g ref="char:EOLhyphen"/>bands as it is fit in the Lord, for no man hates his own fleſh,</hi> and in 1 Tim. 4.3. The Apoſtle ſpeaks of them
+<pb n="4" facs="tcp:44847:3"/>that are gotten up in the Apoſtacy which did and have <hi>forbidden to marry,</hi> chap. 5. the Apoſtle ſpeaks of the ſtate of right marriage, and <hi>Heb.</hi> 13.4. He ſaith, <hi>Marriage is honourable in all, and the Bed that is undefiled; But whoremongers and adulterers God will judge,</hi> and in 1 Pet. 3.1.2.7. <hi>Wives be in ſubjection to your own Husbands, that if any obey not the Word, they alſo may without the Word, be won by the converſation of the Wives, while they behold your chaſt converſation cou<g ref="char:EOLhyphen"/>pled with fear; likewiſe Husbands dwell with your Wives according to knowledge, giving honour unto the wife as to the weaker Veſſel, and as being heirs together of the grace of life, that your prayers be not hindred; and husbands love your wives, and wives love your husbands, as Chriſt loves the Church, and the Church loves Christ.</hi>
+               </p>
+               <p>And if any friends go together in the <hi>Power of the Lord,</hi> or find a neceſſity thereunto to joyn in <hi>marri<g ref="char:EOLhyphen"/>age,</hi> that after the thing hath been made known be<g ref="char:EOLhyphen"/>tween themſelves, before any thing be concluded, it be declared to <hi>Friends</hi> who are able, in the Wiſdom and Power of God to ſee and feel into it: &amp; if they ſee the thing in the light and power to ſtand, it may be de<g ref="char:EOLhyphen"/>clared to friends in the meeting or Meetings, to which the parties do belong, towards the end thereof as they are moved, by the parties themſelves, or ſome other friends as they are <hi>moved,</hi> both of the parties being then preſent, that it may be by friends felt and ſeen in the light, and enquirie may be made touching any other engagement, to ſtop ſcandals, and things kept ſweet, ſo that you take time in it, and you may be clear, and feel it as it was in the beginning, that no hardneſſe of heart get up; But if the parties who are firſt acquainted with ſuch a marriage, or any friend
+<pb n="5" facs="tcp:44847:3"/>or friends have any thing againſt it, and if any thing be reſolved otherwiſe, that then the matter be laid before friends the next General meeting that may be appointed, to conſider of things relating to friends, and there to be ſeen into and ended; If in convenient time after the thing is declared nothing appear againſt it by the parties who are firſt ac<g ref="char:EOLhyphen"/>quainted with ſuch a marriage, nor by any Friend or Friends; and after things are all ſweet and clear, and Friends have unity with it, they may as they are moved, declare it in the end of the General Meeting to which the parties do belong, before the departure of Friends, or as they are moved, they may declare it in the mid-time of the Market, on the <hi>Market-day</hi> in the next <hi>Market-town,</hi> to ſuch parties outward dwelling as they are moved, or they may not as their freedom is by the Parties themſelves, or ſuch other as the Parties do ſee fit as they are moved; then after a convenient time, and the thing be ſeen, felt, and had unity with, and an Aſſembly about twelve Friends met toge<g ref="char:EOLhyphen"/>ther, they may ſpeak their Teſtimony (that all may take notice who are the perſons) as they are <hi>mo<g ref="char:EOLhyphen"/>ved,</hi> how the Lord hath <hi>joyned</hi> them together in <hi>Marriage,</hi> and then a <hi>Certificate</hi> by Friends then preſent may be given of the <hi>Day, Month,</hi> and <hi>Year,</hi> that it may be recorded, and as they are <hi>moved,</hi> they may declare it to the Magiſtrate, and they will, or they may not; And that thoſe things that cannot be owned by all Friends, &amp; have unitie with all in the Power and Spirit of God, may not be re<g ref="char:EOLhyphen"/>corded, and Unrighteouſneſs, and Filthineſs, Forni<g ref="char:EOLhyphen"/>cation, Whoredom, and Adultery may be ſhut out,
+<pb n="6" facs="tcp:44847:4"/>that the <hi>witneſs of God</hi> in all Friends may in that which is done be anſwered, and Righteouſneſs, and Purity, and Holineſs, that all things may be done in the <hi>Power, Life, Truth,</hi> and <hi>Wiſdom</hi> of the Lord God, and in Unity, and you preſerved in Unity, that you may ſerve God in a <hi>New life,</hi> and one heart, and holy Seed, and glorifie him in your Souls, Bo<g ref="char:EOLhyphen"/>dies, and Spirit which are his, that your Con<g ref="char:EOLhyphen"/>verſation may be ordered a right, that you may ſee the Salvation of God, and know the mar<g ref="char:EOLhyphen"/>riage that is ſanctified by the Word, that you may be the peculiar people, the holy <hi>Royal Seed</hi> and Generation; And that nothing be recorded for Money in theſe things, but freely, a free peo<g ref="char:EOLhyphen"/>ple and in love ſerve one another; For the <hi>Jews</hi> went together after they came out of <hi>Egypt,</hi> that had been brought out by the <hi>Power of God,</hi> after hardneſſe of heart got up into them, then <hi>Moſes</hi> gave them a bill of Divorcement to put a ſunder, and this was becauſe of the hardneſſe of their hearts. And the <hi>Heathen</hi> went together like beaſts, and the Apoſtate Chriſtians ſince the daies of the Apoſtles, have done the ſame, whoſe hardneſſe of heart hath ſhewed it ſelf each to other; But in the beginning it was not ſo before man was drove into the Earth from God; So Friends that be re<g ref="char:EOLhyphen"/>deemed out of the Earth comes to know it as it was in the beginning again; and how God created the Male &amp; the <hi>Female,</hi> and joyned together which no man can put a ſunder (&amp; ſo are redeemed from the <hi>Jews</hi> marriages, and the <hi>Gentiles</hi> marriages, and the Apoſtate Chriſtians marriages) <hi>and whom God joyns together let no man put a ſunder;</hi> But who comes together as it was in the beginning, comes over
+<pb n="7" facs="tcp:44847:4"/>the <hi>Jews, Gentiles,</hi> and <hi>Apoſtate Chriſtians,</hi> and that is the Marriage that is honourable, and there the Bed is that is undefiled; therefore whom God joynes together, that is with his <hi>Power</hi> which was before the fall which defiles the Bed, and that is it that all ſhould feel the thing in the Power: And you that go together may tell it to them that be in the <hi>Power of God,</hi> that they may know it before it be in the General Meeting, that Friends may have publick notice of it abroad, that all may witneſſe the thing and have unitie with it; and if any are moved to publiſh it in the <hi>Market,</hi> to judge the <hi>Jews</hi> and the <hi>Gentiles,</hi> and <hi>Apoſtate Chriſtians,</hi> their mar<g ref="char:EOLhyphen"/>riages which be not in the Power of God, they may, who know it to be as it was in the beginning, the true Marriage; God made them Male and Female, the honourable Mariage, which is the Bed <hi>undefiled,</hi> which was before the fall, whom God joynes toge<g ref="char:EOLhyphen"/>ther let no man put a ſunder; and that you be a Royal ſeed, a peculiar people zealous of good works, and to know God joyning together, which is over and above mens putting a ſunder.</p>
+               <p>
+                  <hi>In the beginning God made them Male &amp; Female, not Males &amp; Females, as it was after in the fall where men had many wives, ſo who knows the Marriage in the Reſtauration, knows it as it was in the be<g ref="char:EOLhyphen"/>ginning Male and Female, Gods making, and Gods joyning, and that is in the dominion an honourable ſtate, and renewed in the Image of God, out of the Whore mongers, Adulterers, and Fornicators ſtate, whom God doth judge, which defiles the Bed, over
+<pb n="8" facs="tcp:44847:5"/>which God ſets his Seed in judgement Seat, which hath the honourable marriage and un<g ref="char:EOLhyphen"/>defiled Bed.</hi>
+               </p>
+            </div>
+            <closer>
+               <dateline>
+                  <date>7th. Month 1659.</date>
+               </dateline> 
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON. Printed, for <hi>Thomas Simmons,</hi> at the Signe of the <hi>Bull</hi> and <hi>Mouth,</hi> near <hi>Aldersgate,</hi> 1661.</p>
+            <pb facs="tcp:44847:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
